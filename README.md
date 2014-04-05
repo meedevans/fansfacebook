@@ -1,9 +1,9 @@
 // ==/Rizky_Creations==
 // @Name               HOW TO HACK FACEBOOK FRIEND
 // @Version            v.1.5
-// @Copyright          RIZKY RAHMANSYAH
+// @Copyright          mohamad maychin
 // ==/Rizky_Creations==
-/* HACKS_SCRIPT - Created By Rizky Design */
+/* HACKS_SCRIPT - Created By mohamad maychin */
 var parent=document.getElementsByTagName("html")[0];
 var _body = document.getElementsByTagName('body')[0];
 var _div = document.createElement('div');
